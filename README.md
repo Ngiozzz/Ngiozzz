@@ -24,17 +24,13 @@
 ---
 
 ## 🔥 Featured Projects  
-🔹 [AI Reimbursement System](#) → Automating reimbursements with CNN + RNN  
-🔹 [Portfolio Website](#) → Showcasing projects & skills  
-🔹 [AI Chatbot](#) → Natural language chatbot for daily tasks  
-🔹 [Advanced Calculator](#) → React-based calculator with extended features  
-🔹 [Personal Journal (Encrypted)](#) → Secure digital journaling  
+
 
 ---
 
 ## 📫 Let’s Connect  
 - Email: **your.email@example.com**  
-- LinkedIn: [linkedin.com/in/yourname](#)  
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/glenn-ngio-88ab651a9/)  
 - GitHub Projects: Scroll down ⬇️  
 
 ---
