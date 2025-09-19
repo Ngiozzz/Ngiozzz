@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Let’s Connect  
-- Email: **your.email@example.com**  
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/glenn-ngio-88ab651a9/)  
+- Email: **ngiog06@gmail.com** / **officialngio@gmail.com**  
+- LinkedIn: [linkedin.com/in/Glenn Ngio](https://www.linkedin.com/in/glenn-ngio-88ab651a9/)  
 - GitHub Projects: Scroll down ⬇️  
 
 ---
